@@ -1,8 +1,8 @@
 algoritmo "ex01"
-// Função :
-// Autor : Marcos Alves Lopes Júnior
+// FunÃ§Ã£o :
+// Autor : Marcos Alves Lopes JÃºnior
 // Data : 05/03/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 larg,alt,area: real
 inicio
@@ -13,6 +13,6 @@ leia(alt)
 
 area <- larg * alt
 
-escreval("A AREA DO TERRENO É: ", area)
+escreval("A AREA DO TERRENO Ã‰: ", area)
 
 fimalgoritmo
